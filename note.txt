@@ -1,0 +1,27 @@
+frontend
+pages = 8
+
+component
+
+sidebar:
+{
+    main color: black;
+    text: black;
+    color text: white;
+    font-size: 16px;
+    font-family: poppins;
+}
+-logo & text
+
+-background color
+black
+
+-nav link
+dropdown link = 1
+link = 8
+
+
+backend
+
+
+database
